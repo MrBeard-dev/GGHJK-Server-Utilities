@@ -1,0 +1,234 @@
+--------------------------------------------------------------------------------
+
+Command-Line:
+ - C:\Users\MrBeard_cz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\bin\java.exe
+ - -jar
+ - C:\Users\MrBeard_cz\.gradle\caches\modules-2\files-2.1\net.neoforged.jst\jst-cli-bundle\2.0.6\41bc2dcac9fe41493bee064a7e07b63a5d08348\jst-cli-bundle-2.0.6.jar
+ - --problems-report
+ - D:\DATA\IDEA\IntelliJ\ChunkyAuto\build\tmp\neoformruntime\20260214-152903_transformSources\problems.json
+ - --libraries-list
+ - ./libraries.txt
+ - --in-format
+ - ARCHIVE
+ - --out-format
+ - ARCHIVE
+ - --enable-accesstransformers
+ - --access-transformer
+ - ats\accesstransformer.cfg
+ - --enable-parchment
+ - --parchment-mappings=C:\Users\MrBeard_cz\.gradle\caches\modules-2\files-2.1\org.parchmentmc.data\parchment-1.21\2024.07.28\7bf10de1e335c26bd211adc64547795e2ad96b5b\parchment-1.21-2024.07.28.zip
+ - --parchment-conflict-prefix=p_
+ - C:\Users\MrBeard_cz\.gradle\caches\neoformruntime\intermediate_results\applyNeoforgePatches_d2ee94b704512087784a3a1d5981ec4a2748f58d_output.zip
+ - ./output.zip
+--------------------------------------------------------------------------------
+
+Loading mapping file C:\Users\MrBeard_cz\.gradle\caches\modules-2\files-2.1\org.parchmentmc.data\parchment-1.21\2024.07.28\7bf10de1e335c26bd211adc64547795e2ad96b5b\parchment-1.21-2024.07.28.zip
+Failed to create binary representation for type net.neoforged.neoforge.client.GlStateBackup
+Failed to create binary representation for type net.neoforged.neoforge.client.GlStateBackup
+Failed to create binary representation for type net.neoforged.neoforge.client.GlStateBackup
+Failed to create binary representation for type net.neoforged.neoforge.client.GlStateBackup
+Failed to create binary representation for type net.neoforged.fml.common.asm.enumextension.ExtensionInfo
+Failed to create binary representation for type net.neoforged.fml.common.asm.enumextension.ExtensionInfo
+Failed to create binary representation for type net.neoforged.neoforge.client.settings.IKeyConflictContext
+Failed to create binary representation for type net.neoforged.neoforge.client.settings.IKeyConflictContext
+Failed to create binary representation for type net.neoforged.neoforge.client.settings.IKeyConflictContext
+Failed to create binary representation for type net.neoforged.neoforge.client.settings.KeyModifier
+Failed to create binary representation for type net.neoforged.neoforge.client.settings.IKeyConflictContext
+Failed to create binary representation for type net.neoforged.neoforge.client.settings.KeyModifier
+Failed to create binary representation for type net.neoforged.neoforge.client.settings.IKeyConflictContext
+Failed to create binary representation for type net.neoforged.neoforge.client.settings.IKeyConflictContext
+Failed to create binary representation for type net.neoforged.neoforge.client.settings.KeyModifier
+Failed to create binary representation for type net.neoforged.neoforge.client.settings.KeyModifier
+Failed to create binary representation for type net.neoforged.neoforge.client.settings.KeyModifier
+Failed to create binary representation for type net.neoforged.neoforge.client.settings.IKeyConflictContext
+Failed to create binary representation for type net.neoforged.neoforge.client.settings.IKeyConflictContext
+Failed to create binary representation for type net.neoforged.neoforge.client.settings.IKeyConflictContext
+Failed to create binary representation for type net.neoforged.neoforge.client.settings.KeyModifier
+Failed to create binary representation for type net.neoforged.neoforge.client.settings.IKeyConflictContext
+Failed to create binary representation for type net.neoforged.neoforge.client.settings.KeyModifier
+Failed to create binary representation for type net.neoforged.neoforge.client.settings.IKeyConflictContext
+Failed to create binary representation for type net.neoforged.neoforge.client.settings.IKeyConflictContext
+Failed to create binary representation for type net.neoforged.neoforge.client.settings.KeyModifier
+Failed to create binary representation for type net.neoforged.neoforge.client.settings.KeyModifier
+Failed to create binary representation for type net.neoforged.neoforge.client.settings.KeyModifier
+Failed to create binary representation for type net.neoforged.fml.common.asm.enumextension.ExtensionInfo
+Failed to create binary representation for type net.neoforged.fml.common.asm.enumextension.ExtensionInfo
+Failed to create binary representation for type net.neoforged.fml.common.asm.enumextension.ExtensionInfo
+Failed to create binary representation for type net.neoforged.fml.common.asm.enumextension.ExtensionInfo
+Failed to create binary representation for type net.neoforged.neoforge.client.gui.CreativeTabsScreenPage
+Failed to create binary representation for type net.neoforged.neoforge.client.gui.CreativeTabsScreenPage
+Failed to create binary representation for type net.neoforged.neoforge.client.entity.animation.json.AnimationHolder
+Failed to create binary representation for type net.neoforged.neoforge.client.entity.animation.json.AnimationHolder
+Failed to create binary representation for type net.neoforged.neoforge.client.entity.animation.json.AnimationHolder
+Failed to create binary representation for type net.neoforged.neoforge.client.entity.animation.json.AnimationHolder
+Failed to create binary representation for type net.neoforged.neoforge.client.entity.animation.json.AnimationHolder
+Failed to create binary representation for type net.neoforged.neoforge.client.IArmPoseTransformer
+Failed to create binary representation for type net.neoforged.fml.common.asm.enumextension.ExtensionInfo
+Failed to create binary representation for type net.neoforged.neoforge.network.connection.ConnectionType
+Failed to create binary representation for type net.neoforged.neoforge.client.model.data.ModelDataManager
+Failed to create binary representation for type net.neoforged.neoforge.client.model.data.ModelData
+Failed to create binary representation for type net.neoforged.neoforge.common.util.BlockSnapshot
+Failed to create binary representation for type net.neoforged.neoforge.network.connection.ConnectionType
+Failed to create binary representation for type net.neoforged.neoforge.network.connection.ConnectionType
+Failed to create binary representation for type net.neoforged.neoforge.client.ChunkRenderTypeSet
+Failed to create binary representation for type net.neoforged.neoforge.client.ChunkRenderTypeSet
+Failed to create binary representation for type net.neoforged.neoforge.client.ChunkRenderTypeSet
+Failed to create binary representation for type net.neoforged.neoforge.client.model.data.ModelData
+Failed to create binary representation for type net.neoforged.neoforge.client.model.data.ModelData
+Failed to create binary representation for type net.neoforged.neoforge.client.model.data.ModelData
+Failed to create binary representation for type net.neoforged.neoforge.client.model.data.ModelData
+Failed to create binary representation for type net.neoforged.neoforge.client.model.data.ModelData
+Failed to create binary representation for type net.neoforged.neoforge.client.model.data.ModelData
+Failed to create binary representation for type net.neoforged.neoforge.client.model.ExtraFaceData
+Failed to create binary representation for type net.neoforged.neoforge.client.model.data.ModelData
+Failed to create binary representation for type net.neoforged.neoforge.client.model.ExtraFaceData
+Failed to create binary representation for type net.neoforged.neoforge.client.model.ExtraFaceData
+Failed to create binary representation for type net.neoforged.neoforge.client.model.ExtraFaceData
+Failed to create binary representation for type net.neoforged.neoforge.client.model.ExtraFaceData
+Failed to create binary representation for type net.neoforged.neoforge.client.model.ExtraFaceData
+Failed to create binary representation for type net.neoforged.neoforge.client.model.ExtraFaceData
+Failed to create binary representation for type net.neoforged.neoforge.client.model.ExtraFaceData
+Failed to create binary representation for type net.neoforged.neoforge.client.model.data.ModelData
+Failed to create binary representation for type net.neoforged.neoforge.common.world.AuxiliaryLightManager
+Failed to create binary representation for type net.neoforged.neoforge.client.textures.SpriteContentsConstructor
+Failed to create binary representation for type net.neoforged.neoforge.client.model.data.ModelData
+Failed to create binary representation for type net.neoforged.neoforge.common.util.TriState
+Failed to create binary representation for type net.neoforged.neoforge.client.model.data.ModelData
+Failed to create binary representation for type net.neoforged.neoforge.client.model.data.ModelData
+Failed to create binary representation for type net.neoforged.neoforge.client.RenderTypeGroup
+Failed to create binary representation for type net.neoforged.neoforge.client.model.data.ModelData
+Failed to create binary representation for type net.neoforged.neoforge.client.model.data.ModelData
+Failed to create binary representation for type net.neoforged.neoforge.common.util.TriState
+Failed to create binary representation for type net.neoforged.neoforge.client.model.data.ModelData
+Failed to create binary representation for type net.neoforged.neoforge.client.ChunkRenderTypeSet
+Failed to create binary representation for type net.neoforged.neoforge.client.model.data.ModelData
+Failed to create binary representation for type net.neoforged.neoforge.client.model.data.ModelData
+Failed to create binary representation for type net.neoforged.neoforge.client.ChunkRenderTypeSet
+Failed to create binary representation for type net.neoforged.neoforge.client.model.data.ModelData
+Failed to create binary representation for type net.neoforged.neoforge.client.model.data.ModelData
+Failed to create binary representation for type net.neoforged.neoforge.client.ChunkRenderTypeSet
+Failed to create binary representation for type net.neoforged.neoforge.client.model.data.ModelData
+Failed to create binary representation for type net.neoforged.neoforge.client.RenderTypeGroup
+Failed to create binary representation for type net.neoforged.neoforge.client.RenderTypeGroup
+Failed to create binary representation for type net.neoforged.neoforge.client.model.data.ModelData
+Failed to create binary representation for type net.neoforged.neoforge.client.model.data.ModelData
+Failed to create binary representation for type net.neoforged.neoforge.registries.datamaps.DataMapType<T,A>
+Failed to create binary representation for type net.neoforged.neoforge.registries.datamaps.DataMapType<T,A>
+Failed to create binary representation for type net.neoforged.neoforge.common.data.ExistingFileHelper
+Failed to create binary representation for type net.neoforged.neoforge.common.data.ExistingFileHelper
+Failed to create binary representation for type net.neoforged.neoforge.common.data.ExistingFileHelper
+Failed to create binary representation for type net.neoforged.neoforge.common.data.ExistingFileHelper
+Failed to create binary representation for type net.neoforged.neoforge.common.data.ExistingFileHelper
+Failed to create binary representation for type net.neoforged.neoforge.common.data.ExistingFileHelper
+Failed to create binary representation for type net.neoforged.neoforge.common.data.ExistingFileHelper
+Failed to create binary representation for type net.neoforged.neoforge.common.data.ExistingFileHelper
+Failed to create binary representation for type net.neoforged.neoforge.common.data.ExistingFileHelper
+Failed to create binary representation for type net.neoforged.neoforge.common.data.ExistingFileHelper
+Failed to create binary representation for type net.neoforged.neoforge.common.data.ExistingFileHelper
+Failed to create binary representation for type net.neoforged.neoforge.common.data.ExistingFileHelper
+Failed to create binary representation for type net.neoforged.neoforge.common.data.ExistingFileHelper
+Failed to create binary representation for type net.neoforged.neoforge.common.data.ExistingFileHelper
+Failed to create binary representation for type net.neoforged.neoforge.common.data.ExistingFileHelper
+Failed to create binary representation for type net.neoforged.neoforge.common.data.ExistingFileHelper
+Failed to create binary representation for type net.neoforged.neoforge.common.data.ExistingFileHelper
+Failed to create binary representation for type net.neoforged.neoforge.common.data.ExistingFileHelper
+Failed to create binary representation for type net.neoforged.neoforge.common.data.ExistingFileHelper
+Failed to create binary representation for type net.neoforged.neoforge.common.data.ExistingFileHelper
+Failed to create binary representation for type net.neoforged.neoforge.common.data.ExistingFileHelper
+Failed to create binary representation for type net.neoforged.neoforge.common.data.ExistingFileHelper
+Failed to create binary representation for type net.neoforged.neoforge.common.data.ExistingFileHelper
+Failed to create binary representation for type net.neoforged.neoforge.common.data.ExistingFileHelper
+Failed to create binary representation for type net.neoforged.neoforge.network.connection.ConnectionType
+Failed to create binary representation for type net.neoforged.neoforge.network.connection.ConnectionType
+Failed to create binary representation for type net.neoforged.neoforge.network.connection.ConnectionType
+Failed to create binary representation for type net.neoforged.neoforge.common.conditions.ICondition.IContext
+Failed to create binary representation for type net.neoforged.neoforge.network.bundle.PacketAndPayloadAcceptor<net.minecraft.network.protocol.game.ClientGamePacketListener>
+Failed to create binary representation for type net.neoforged.neoforge.attachment.AttachmentType<?>
+Failed to create binary representation for type net.neoforged.neoforge.capabilities.ICapabilityInvalidationListener
+Failed to create binary representation for type net.neoforged.neoforge.attachment.AttachmentType<?>
+Failed to create binary representation for type net.neoforged.neoforge.capabilities.ICapabilityInvalidationListener
+Failed to create binary representation for type net.neoforged.neoforge.network.connection.ConnectionType
+Failed to create binary representation for type net.neoforged.neoforge.network.connection.ConnectionType
+Failed to create binary representation for type net.neoforged.neoforge.common.damagesource.IScalingFunction
+Failed to create binary representation for type net.neoforged.neoforge.common.damagesource.IDeathMessageProvider
+Failed to create binary representation for type net.neoforged.neoforge.common.damagesource.IDeathMessageProvider
+Failed to create binary representation for type net.neoforged.fml.common.asm.enumextension.ExtensionInfo
+Failed to create binary representation for type net.neoforged.fml.common.asm.enumextension.ExtensionInfo
+Failed to create binary representation for type net.neoforged.neoforge.common.damagesource.IScalingFunction
+Failed to create binary representation for type net.neoforged.fml.common.asm.enumextension.ExtensionInfo
+Failed to create binary representation for type net.neoforged.neoforge.fluids.FluidType
+Failed to create binary representation for type net.neoforged.neoforge.fluids.FluidType
+Failed to create binary representation for type net.neoforged.fml.common.asm.enumextension.ExtensionInfo
+Failed to create binary representation for type net.neoforged.neoforge.fluids.FluidType
+Failed to create binary representation for type net.neoforged.neoforge.fluids.FluidType
+Failed to create binary representation for type net.neoforged.neoforge.fluids.FluidType
+Failed to create binary representation for type net.neoforged.neoforge.fluids.FluidType
+Failed to create binary representation for type net.neoforged.neoforge.attachment.AttachmentType<T>
+Failed to create binary representation for type net.neoforged.neoforge.attachment.AttachmentType<?>
+Failed to create binary representation for type net.neoforged.neoforge.capabilities.EntityCapability<T,C>
+Failed to create binary representation for type net.neoforged.neoforge.capabilities.EntityCapability<T,Void>
+Failed to create binary representation for type net.neoforged.neoforge.common.EffectCure
+Failed to create binary representation for type net.neoforged.neoforge.fluids.FluidType
+Failed to create binary representation for type net.neoforged.neoforge.fluids.FluidType
+Failed to create binary representation for type net.neoforged.neoforge.fluids.FluidType
+Failed to create binary representation for type net.neoforged.neoforge.fluids.FluidType
+Failed to create binary representation for type net.neoforged.neoforge.attachment.AttachmentType<T>
+Failed to create binary representation for type net.neoforged.neoforge.attachment.AttachmentType<?>
+Failed to create binary representation for type net.neoforged.neoforge.capabilities.EntityCapability<T,C>
+Failed to create binary representation for type net.neoforged.neoforge.capabilities.EntityCapability<T,Void>
+Failed to create binary representation for type net.neoforged.neoforge.common.EffectCure
+Failed to create binary representation for type net.neoforged.neoforge.fluids.FluidType
+Failed to create binary representation for type net.neoforged.neoforge.fluids.FluidType
+Failed to create binary representation for type net.neoforged.neoforge.common.IMinecartCollisionHandler
+Failed to create binary representation for type net.neoforged.neoforge.common.IMinecartCollisionHandler
+Failed to create binary representation for type net.neoforged.fml.common.asm.enumextension.ExtensionInfo
+Failed to create binary representation for type net.neoforged.fml.common.asm.enumextension.ExtensionInfo
+Failed to create binary representation for type net.neoforged.fml.common.asm.enumextension.ExtensionInfo
+Failed to create binary representation for type net.neoforged.neoforge.common.ItemAbility
+Failed to create binary representation for type net.neoforged.neoforge.common.ItemAbility
+Failed to create binary representation for type net.neoforged.neoforge.common.ItemAbility
+Failed to create binary representation for type net.neoforged.neoforge.common.ItemAbility
+Failed to create binary representation for type net.neoforged.neoforge.common.ItemAbility
+Failed to create binary representation for type net.neoforged.neoforge.common.ItemAbility
+Failed to create binary representation for type net.neoforged.fml.common.asm.enumextension.ExtensionInfo
+Failed to create binary representation for type net.neoforged.fml.common.asm.enumextension.ExtensionInfo
+Failed to create binary representation for type net.neoforged.neoforge.common.ItemAbility
+Failed to create binary representation for type net.neoforged.neoforge.common.ItemAbility
+Failed to create binary representation for type net.neoforged.neoforge.common.ItemAbility
+Failed to create binary representation for type net.neoforged.neoforge.common.ItemAbility
+Failed to create binary representation for type net.neoforged.neoforge.common.ItemAbility
+Failed to create binary representation for type net.neoforged.neoforge.common.ItemAbility
+Failed to create binary representation for type net.neoforged.neoforge.common.ItemAbility
+Failed to create binary representation for type net.neoforged.neoforge.common.brewing.IBrewingRecipe
+Failed to create binary representation for type net.neoforged.fml.common.asm.enumextension.ExtensionInfo
+Failed to create binary representation for type net.neoforged.neoforge.common.crafting.ICustomIngredient
+Failed to create binary representation for type net.neoforged.neoforge.common.crafting.ICustomIngredient
+Failed to create binary representation for type net.neoforged.neoforge.common.crafting.ICustomIngredient
+Failed to create binary representation for type net.neoforged.neoforge.common.crafting.ICustomIngredient
+Failed to create binary representation for type net.neoforged.neoforge.common.world.chunk.ForcedChunkManager.TicketTracker<net.minecraft.core.BlockPos>
+Failed to create binary representation for type net.neoforged.neoforge.common.world.chunk.ForcedChunkManager.TicketTracker<java.util.UUID>
+Failed to create binary representation for type net.neoforged.neoforge.common.world.ModifiableBiomeInfo
+Failed to create binary representation for type net.neoforged.neoforge.common.world.ModifiableBiomeInfo
+Failed to create binary representation for type net.neoforged.fml.common.asm.enumextension.ExtensionInfo
+Failed to create binary representation for type net.neoforged.neoforge.attachment.AttachmentType<T>
+Failed to create binary representation for type net.neoforged.neoforge.attachment.AttachmentType<T>
+Failed to create binary representation for type net.neoforged.neoforge.attachment.AttachmentType<?>
+Failed to create binary representation for type net.neoforged.neoforge.attachment.AttachmentType<?>
+Failed to create binary representation for type net.neoforged.neoforge.attachment.AttachmentType<T>
+Failed to create binary representation for type net.neoforged.neoforge.attachment.AttachmentType<T>
+Failed to create binary representation for type net.neoforged.neoforge.attachment.AttachmentType<T>
+Failed to create binary representation for type net.neoforged.neoforge.attachment.AttachmentType<T>
+Failed to create binary representation for type net.neoforged.neoforge.attachment.AttachmentHolder.AsField
+Failed to create binary representation for type net.neoforged.neoforge.attachment.AttachmentHolder.AsField
+Failed to create binary representation for type net.neoforged.neoforge.common.world.LevelChunkAuxiliaryLightManager
+Failed to create binary representation for type net.neoforged.neoforge.attachment.AttachmentType<?>
+Failed to create binary representation for type net.neoforged.neoforge.event.level.AlterGroundEvent.StateProvider
+Failed to create binary representation for type net.neoforged.neoforge.event.level.AlterGroundEvent.StateProvider
+Failed to create binary representation for type net.neoforged.neoforge.common.world.ModifiableStructureInfo
+Failed to create binary representation for type net.neoforged.neoforge.fluids.FluidType
+OpenJDK 64-Bit Server VM warning: INFO: os::commit_memory(0x0000000750e00000, 216006656, 0) failed; error='K dokonèení požadované služby je stránkovací soubor pøíliš malý' (DOS error/errno=1455)
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (mmap) failed to map 216006656 bytes. Error detail: G1 virtual space
+# An error report file with more information is saved as:
+# D:\DATA\IDEA\IntelliJ\ChunkyAuto\build\tmp\neoformruntime\20260214-152903_transformSources\hs_err_pid8272.log
